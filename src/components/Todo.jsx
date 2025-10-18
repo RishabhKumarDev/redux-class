@@ -8,7 +8,7 @@ function Todo() {
   return (
     <>
       <div className="text-3xl  text-rose-500 underline decoration-wavy">
-        Todo
+        Todos
       </div>
       <ul className=" mt-3">
         {todos.map((todo, i) => (
